@@ -1,5 +1,8 @@
 # Indicaciones para correr el proyecto
 
+antes de ejecutar el proj
+ecto creamos una base de datos de nombre "login" en el
+gestor de base de datos. 
 > git init
 
 ## dependencias utilizadas
